@@ -11,11 +11,11 @@
 }
 
 
-.side-navbar{
+.side-navbar-grid{
     grid-area: side-navbar/row 1 start/ column 1 start/ row 2 end/ column 4 end;  
 }
 
-.top-navbar{
+.top-navbar-grid{
     grid-area: top-navbar/row 2 start/ column 1 start/ row 3 end/ column 2 end;
 }
 
