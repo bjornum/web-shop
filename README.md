@@ -14,3 +14,4 @@ Admin del:
 dashboard: Med oversikt over salgs data
 produkt liste - legg inn og slette produkt
 salgs side - oversikt over kunder og salg paa nettbutikk
+

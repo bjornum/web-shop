@@ -4,3 +4,7 @@
     text-align:center;
     color: rgb(68, 35, 35);
 }
+
+.text-row{
+    display:inline;
+}
