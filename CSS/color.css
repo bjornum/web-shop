@@ -54,20 +54,31 @@
 
 .a:link{
     color: white;
-    background-color:black;
 }
 
 a:visited{
-    color:red;
+    color:rgb(33, 57, 124);
     background-color:black;
 }
 
 a:hover{
-    color:blue;
+    color:white;
     background-color:rgb(29, 21, 21);
 }
 
 a:active{
     color:green;
     background-color:rgb(29, 21, 21);
+}
+
+.navbar-top-color{
+    background-color:black;
+    color:white;
+    border:solid rgb(53, 44, 44);
+}
+
+.navbar-side-color{
+    background-color: rgb(44, 41, 41);
+    color:white;
+    border:solid rgb(63, 40, 40);
 }
