@@ -5,7 +5,7 @@ Webshop, med produkt styring og admin.
 
 Brukerdel:
 login
-forside
+forside - forside.html
 om side
 produkt side
 bruker profil
