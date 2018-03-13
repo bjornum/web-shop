@@ -73,10 +73,30 @@ grid-row: 4 / 7;
 grid-column: 2 / 12;
 }
 
-.bottom{
-    grid-row: 2 / 4;
-    grid-column: 2 / 4;
+.grid-bottom-box1{
+    grid-row: 8 / 10;
+    grid-column: 3 / 5;
 }
+
+.grid-bottom-box2{
+    grid-row: 8 / 10;
+    grid-column: 6 / 8;
+}
+
+.grid-bottom-box3{
+    grid-row: 8 / 10;
+    grid-column: 9 / 11;
+}
+
+.grid-footer{
+    grid-row: 11 / 13;
+    grid-column: 1 / 13;
+}
+
+
+
+
+
 
 .middle-box-layout{
     display:grid;
