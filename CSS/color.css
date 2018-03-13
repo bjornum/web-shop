@@ -82,3 +82,9 @@ a:active{
     color:white;
     border:solid rgb(63, 40, 40);
 }
+
+.red{background-color:red;}
+.blue{background-color:blue;}
+.green{background-color:green;}
+.black{background-color:black;}
+.lightgray{background-color:lightgray;}
