@@ -56,12 +56,7 @@
     height:100vh;
     width:100vh;
 }
-.dmmmomain-layout{
-    display:grid;
-    grid-template-rows: 13% 1fr 15%;
-    height:100%; 
-    grid-template-columns:15% 1fr 1fr 10%;
-}
+
 
 .navbar-top{
 grid-row: 1 / 3; 
@@ -159,3 +154,58 @@ grid-column: 2 / 12;
 .button-wrap{
 
 }
+
+
+
+
+/*Tetris */
+
+.screen-box{
+    grid-row: 2 / 9; 
+    grid-column: 4 / 10;
+    border:solid 2px black;
+
+    }
+
+    .controller-box1{
+        grid-row: 10 / 13;
+        grid-column: 2 / 3;
+    }
+
+    .controller-box2{
+        grid-row: 11 / 12;
+        grid-column: 1 / 2;
+    }
+
+    .controller-box3{
+        grid-row:11 / 12;
+        grid-column: 3 / 4;
+    }
+
+    .knapp-a{
+        grid-row: 11 / 13;
+        grid-column: 8 / 10;
+    }
+
+    .knapp-b{
+        grid-row: 11 / 13;
+        grid-column: 11 / 13;
+    }
+
+    .domain-layout-test{
+        display:grid;
+        grid-template-rows: 5% 5% 5% 15% 15% 10% 5% 10% 5% 5% 5% 5%;
+        grid-template-column: 5% 5% 10% 15% 5% 10% 10% 5% 10% 15% 5% 5%;
+        height:100%;
+        border:solid 3px black;
+    }
+
+    .tetris-grid-screen{
+        display:grid;
+        grid-template-rows:5% 5% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+        grid-template-columns: 5% 10% 10% 10% 10% 10% 10% 10% 10% 10% 5%;
+    }
+
+    .cubes{
+        background-color:orange;
+    }
