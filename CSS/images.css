@@ -1,0 +1,16 @@
+/* can never get bigger than the scales below*/
+.img{
+    max-height:100%;
+    max-width:100;
+}
+/*end*/
+
+.img-portrait-medium{
+    height:200px;
+    width:150px;
+}
+
+.img-landscape-medium{
+    height:150px;
+    width: 300px;
+}
