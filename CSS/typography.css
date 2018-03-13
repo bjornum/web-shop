@@ -19,3 +19,12 @@ Middle-box-headline{
     display:flex;
     align-self:center;
 }
+
+.flex-bottom-boxes{
+    display:flex;
+    align-self:center;
+    justify-content:center;
+}
+.align-items-center{
+    align-items:center;
+}
