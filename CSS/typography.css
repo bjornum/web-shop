@@ -1,10 +1,21 @@
 
+.flex-middle-box{
+    display: flex;
+    align-self:center;
+    justify-content: center;
+    flex-wrap:wrap;
+}
 
 .headliner-h1{
     text-align:center;
-    color: rgb(68, 35, 35);
+    color: white;
 }
 
 .text-row{
     display:inline;
+}
+
+Middle-box-headline{
+    display:flex;
+    align-self:center;
 }
