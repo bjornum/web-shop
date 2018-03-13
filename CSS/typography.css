@@ -28,3 +28,12 @@ Middle-box-headline{
 .align-items-center{
     align-items:center;
 }
+/* both font-4 is the same size */
+.font-4{
+    font-size: 4em;
+}
+
+.font-4a{
+    font-size: 64px;
+}
+
