@@ -29,3 +29,7 @@ ol{
     grid-rows: 1 / 2;
     grid-column: 1 / 4;
 }
+
+|.a{
+    cursor:pointer;
+}
