@@ -39,3 +39,20 @@
 /*project login end */
 
 /*project userprofile */
+
+.grid-userprofile-middle-part-layout{
+    display:grid;
+    grid-template-rows: 10% 30% 10% 1% 49%;
+    grid-template-columns: 10% 20% 70%;
+    height: 100%;
+}
+
+.grid-image-frame{
+    grid-row: 2 / 3;
+    grid-column: 2 / 3;
+}
+
+.grid-line-dividing-middle{
+    grid-row: 4 / 5;
+    grid-column: 1 / 4;
+}
