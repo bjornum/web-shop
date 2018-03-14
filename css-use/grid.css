@@ -4,8 +4,15 @@
     width: 100vh;
 }
 
+/*main page layout*/
+
+.grid-main-layout{
+    grid-template-rows: 10% 80% 10%;
+}
+
 .grid-login-body-layout{
     display:grid;
+
     grid-template-rows: 10% 20% 40% 20% 10%;
     grid-template-columns: 20% 60% 20%;
     height:100%;
