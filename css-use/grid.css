@@ -56,3 +56,34 @@
     grid-row: 4 / 5;
     grid-column: 1 / 4;
 }
+
+/*project userprofile end*/
+
+/*project products */
+
+.grid-products-middle{
+    display:grid;
+    grid-template-rows: 30% 10% 60%;
+    grid-template-columns: 25% 1% 10% 25% 4% 25% 10%;
+    height: 100%;
+}
+
+.grid-products-side-navbar{
+    grid-row: 1 / 4;
+    grid-column: 1 / 2;
+}
+
+.grid-products-sidebar-line{
+    grid-row: 1 / 4;
+    grid-column: 2 / 3;
+}
+
+.grid-products-image1-layout{
+    grid-row: 2 / 3;
+    grid-column: 4 / 5;
+}
+
+.grid-products-image2-layout{
+    grid-row: 2 / 3;
+    grid-column: 6 / 7;
+}
