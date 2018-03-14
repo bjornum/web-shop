@@ -6,8 +6,8 @@
 
 .grid-body-layout{
     display:grid;
-    grid-template-rows: 5% 5% 5% 15% 15% 10% 5% 10% 5% 5% 10% 10%;
-    grid-template-columns: 5% 5% 10% 15% 5% 10% 10% 5% 10% 15% 5% 5%;
+    grid-template-rows: 5% 20% 50% 20% 5%;
+    grid-template-columns: 25% 50% 25%;
     height:100%;
 }
 
