@@ -45,6 +45,17 @@
 
 .grid-userprofile-body-layout{
     display:grid;
-    grid-template-rows: 10% 7% 7% 17% 7% 7% 10% 15% 10% 10%;
+    grid-template-rows: 10% 7% 7% 17% 7% 7% 2% 15% 18% 10%;
     grid-template-columns: 10% 15% 15% 10% 20% 15% 15%;
+    height:100%;
+}
+
+.grid-userprofile-image-layout{
+    grid-row: 4 / 5;
+    grid-column: 2 / 4;
+}
+
+.grid-userprofile-navbar{
+    grid-row: 1 / 2;
+    grid-column: 1 / 8;
 }
