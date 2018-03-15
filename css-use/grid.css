@@ -142,3 +142,57 @@
     grid-row:  2 / 3;
     grid-column: 2 / 3;
 }
+
+.grid-aboutpage-middle-bot-part1-layout{
+    display:grid;
+    grid-template-rows: 5% 60% 30% 5%;
+    grid-template-columns: 10% 40% 5% 40% 5%;
+    height:100%;
+}
+
+.grid-aboutpage-middle-bot-image1-layout{
+    grid-row: 2 / 3;
+    grid-column: 2 / 3;
+}
+
+.grid-aboutpage-middle-bot-image2-layout{
+    grid-row: 2 / 3;
+    grid-column: 4 / 5;
+}
+
+.grid-aboutpage-middle-bot-text1-layout{
+    grid-row: 3 / 4;
+    grid-column: 2 / 3;
+}
+
+.grid-aboutpage-middle-bot-text2-layout{
+    grid-row: 3 / 4;
+    grid-column: 4 / 5;
+}
+
+.grid-aboutpage-middle-bot-part2-layout{
+    display:grid;
+    grid-template-rows: 5% 60% 30% 5%;
+    grid-template-columns: 5% 40% 5% 40% 10%;
+    height:100%;
+}
+
+.grid-aboutpage-middle-bot-image3-layout{
+    grid-row: 2 / 3;
+    grid-column: 2 / 3;
+}
+
+.grid-aboutpage-middle-bot-image4-layout{
+    grid-row: 2 / 3;
+    grid-column: 4 / 5;
+}
+
+.grid-aboutpage-middle-bot-text3-layout{
+    grid-row: 3 / 4;
+    grid-column: 2 / 3;
+}
+
+.grid-aboutpage-middle-bot-text4-layout{
+    grid-row: 3 / 4;
+    grid-column: 4 / 5;
+}
