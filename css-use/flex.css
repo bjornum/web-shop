@@ -1,0 +1,51 @@
+/*main*/
+.flex-it-all{
+    display:flex;
+}
+
+.flex-direction-row{
+    display:flex;
+    flex-direction:row;
+}
+
+.flex-align-center{
+    align-self:center;
+}
+
+/* main end */
+
+/*Login */
+
+.flex-loginbar{
+    border:solid 1px black;
+    height:30px;
+    width:200px;
+    margin-left:40px;
+    justify-content:center;
+    background-color:white;
+    flex-wrap:nowrap;
+}
+
+.flex-password-bar{
+    border:solid 1px black;
+    height:30px;
+    width:200px;
+    margin-left:17px;
+    justify-content:center;
+    background-color:white;
+    flex-wrap:nowrap;
+}
+
+.text-align{
+    margin-left:30px;
+}
+
+.password-padding{
+    padding-top:5px;
+}
+
+.login-button{
+    justify-self:flex-end;
+    margin-left:240px;
+    margin-top:10px;
+}
