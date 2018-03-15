@@ -42,6 +42,21 @@
     grid-column: 1 / 2;
 }
 
+.grid-frontpage-middle-top-layout{
+    display:grid;
+    grid-template-rows: 20% 60% 20%;
+    grid-template-columns: 10% 80% 10%;
+    height: 100%;
+}
+
+.grid-frontpage-middle-bot-layout{
+    display:grid;
+    grid-template-rows: 100%;
+    grid-template-columns: 10% 20% 10% 20% 10% 20% 10%;
+    height:100%;
+}
+
+
 /* project login */
 
 .grid-login-body-layout{
