@@ -63,7 +63,7 @@
 
 .grid-products-middle{
     display:grid;
-    grid-template-rows: 30% 10% 60%;
+    grid-template-rows: 30% 25% 45%;
     grid-template-columns: 25% 1% 10% 25% 4% 25% 10%;
     height: 100%;
 }
