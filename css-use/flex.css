@@ -65,5 +65,34 @@
 
 .flex-dashboard-side-nav{
     display:flex;
+    flex-direction: column;
+    float:left 10%;
+    max-width:10%;
+    padding:10px;
+}
 
+.flex-dashboard-middle{
+    display:flex;
+    width:90%;
+}
+
+.flex-boxes{
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    flex-direction:row;
+}
+
+.flex-box-top-size{
+    display:flex;
+    width:6em;
+    height:7em;
+    border:solid 1px black;
+}
+
+.flex-box-mid-size{
+    display:flex;
+    width:10em;
+    height:10em;
+    border:solid 1px black;
 }

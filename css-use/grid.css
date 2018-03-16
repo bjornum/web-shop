@@ -13,7 +13,7 @@
 
 .grid-footer{
     grid-row: 3 / 4;
-    grid-column: 1 / 3;
+    grid-column: 1 / 5;
 }
 
 .grid-middle-part{
@@ -337,3 +337,14 @@
     grid-row: 2 / 3;
     grid-column: 4 / 5;
 }
+
+/* make code shorter. replacing grid with flex*/
+
+.grid-test-layout-middle{
+    display:grid;
+    grid-template-rows: 25% 40% 35%;
+    grid-template-columns:1fr;
+    height:100%;
+    width:100%;
+}
+
