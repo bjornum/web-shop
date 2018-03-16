@@ -118,3 +118,15 @@
     margin-right:25%;
     border: solid 1px black;
 }
+
+.flex-column{
+    display:flex;
+    flex-direction:column;
+}
+
+.flex-about-size-box-bot{
+    display:flex;
+    width:7em;
+    height:6em;
+    border:solid 1px black;
+}
