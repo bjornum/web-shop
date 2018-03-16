@@ -90,6 +90,7 @@
     flex-direction:row;
 }
 
+
 /*dashboard.html*/
 
 .flex-box-top-size{
@@ -129,4 +130,24 @@
     width:7em;
     height:6em;
     border:solid 1px black;
+}
+/*about end*/
+
+/*user profile*/
+
+.flex-userprofile-box-top{
+    display:flex;
+    width:7em;
+    height:7em;
+    border:solid 1px black;
+    margin-left:60px;
+}
+
+.flex-align-box{
+    justify-content:center;
+    align-items: center;
+}
+
+.flex-userprofile-align-text{
+    margin-left:60px;
 }
