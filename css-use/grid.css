@@ -259,7 +259,7 @@
 
 /* make code shorter. replacing grid with flex*/
 
-.grid-test-layout-middle{
+.grid-dashboard-middle{
     display:grid;
     grid-template-rows: 25% 40% 35%;
     grid-template-columns:1fr;
