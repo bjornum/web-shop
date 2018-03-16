@@ -250,7 +250,12 @@
     grid-row: 3 / 4;
     grid-column: 4 / 5;
 }
-
+.grid-about-middle{
+    display:grid;
+    grid-template-rows: 25% 35% 40%;
+    grid-template-columns:100%;
+    height:100%;
+}
 /*about page end*/
 
 /* dashboard start*/

@@ -83,6 +83,15 @@
     flex-direction:row;
 }
 
+.flex-boxes2{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:row;
+}
+
+/*dashboard.html*/
+
 .flex-box-top-size{
     display:flex;
     width:6em;
@@ -95,4 +104,17 @@
     width:10em;
     height:10em;
     border:solid 1px black;
+}
+
+/*dashboard.html end*/
+
+/*about.html*/
+
+.flex-about-box-top{
+    display:flex;
+    width:40em;
+    height:6em;
+    margin-left:25%;
+    margin-right:25%;
+    border: solid 1px black;
 }
