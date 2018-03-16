@@ -102,10 +102,22 @@
     width:10em;
     border:solid 1px black;
     margin-bottom:5px;
+    margin-left:5px;
 }
 .flex-nowrap{
     display:flex;
     flex-wrap:nowrap;
+}
+
+.flex-login-headliner{
+    display:flex;
+    margin-bottom:10px;
+}
+
+.flex-login-button{
+    display:flex;
+    justify-content:flex-end;
+    margin-top:1em;
 }
 /*login end*/
 /*dashboard.html*/
