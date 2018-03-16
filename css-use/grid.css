@@ -103,7 +103,7 @@
 
 /*project userprofile end*/
 
-/*project products */
+/* products */
 
 .grid-products-middle{
     display:grid;
@@ -132,7 +132,15 @@
     grid-column: 6 / 7;
 }
 
-/*project product_page end*/
+.grid-productpage-middle{
+    display:grid;
+    grid-template-rows: 50% 50%;
+    grid-template-columns: 100%;
+    heigth:100%;
+    width:100%;
+}
+
+/*product end*/
 
 /*project about_page */
 
