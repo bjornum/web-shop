@@ -255,10 +255,6 @@
 
 /* dashboard start*/
 
-
-
-/* make code shorter. replacing grid with flex*/
-
 .grid-dashboard-middle{
     display:grid;
     grid-template-rows: 25% 40% 35%;
