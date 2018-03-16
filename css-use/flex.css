@@ -213,3 +213,31 @@
     padding:40px;
     border:solid 1px black;
 }
+/*product end*/
+
+/*front page start*/
+
+.flex-front-side-nav{
+    display:flex;
+    flex-direction: column;
+    max-width:20%;
+    padding:30px;
+}
+
+.flex-front-middle{
+    display:flex;
+    width:80%;
+    height:100%
+}
+
+.flex-front-big-box{
+    display:flex;
+    width:10em;
+    padding:80px;
+    margin-top:40px;
+    border:solid 1px black;
+}
+
+.flex-front-boxes{
+
+}

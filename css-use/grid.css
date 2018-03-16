@@ -162,3 +162,13 @@
     width:100%;
 }
 
+/*dashboard end*/
+
+.grid-front-middle{
+    display:grid;
+    grid-template-rows: 50% 50%;
+    grid-template-columns: 100%;
+    heigth:100%;
+    width:100%;
+}
+
