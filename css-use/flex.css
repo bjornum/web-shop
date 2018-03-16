@@ -82,7 +82,32 @@
     margin-top:10px;
 }
 
+.flex-login-layout{
+    display:flex;
+    padding:100px;
+    border:solid 1px black;
+    width:10em;
+    heigth:10em;
+}
 
+.flex-positioning{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.flex-login-boxes{
+    display:flex;
+    height:2em;
+    width:10em;
+    border:solid 1px black;
+    margin-bottom:5px;
+}
+.flex-nowrap{
+    display:flex;
+    flex-wrap:nowrap;
+}
+/*login end*/
 /*dashboard.html*/
 
 .flex-box-top-size{
