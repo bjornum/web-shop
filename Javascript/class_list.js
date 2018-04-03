@@ -12,7 +12,8 @@ function classList_add() {
     element.classList.add("class to add");
 }
 
-/*remove  removes an class in an element*/
+
+/*remove  removes an class in an element **/
 function classList_remove() {
     var element = document.getElementById("classLists");
     element.classList.remove("class to remove");
