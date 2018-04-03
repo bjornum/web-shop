@@ -1,0 +1,42 @@
+
+.flex-container1{
+    background-color:lightgrey;
+    width: 200px;
+    height:50px;
+
+}
+
+
+
+
+/*Justify Content, moves elements horisontaly within the container. <--->  */
+
+/* center elements in the middle of the container*/
+flex-justify-center{
+    display:flex;
+    justify-content: center;
+}
+
+/* place the elements in the beginning of the container*/
+flex-justify-start{
+    display:flex;
+    justify-content:flex-start;
+}
+
+/*place the elements in the end of the container*/
+flex-justify-end{
+    display:flex;
+    justify-content:flex-end;
+}
+
+/* Adds space around each element in the container.  (space -- element -- space -- element -- space) */
+flex-justify-space-around{
+    display:flex;
+    justify-content: space-around;
+}
+
+/* Adds space between the elements in the container */
+flex-justify-space-between{
+    display:flex;
+    justify-content: space-between;
+}

@@ -4,6 +4,10 @@
     border:solid 3px black;
 }
 
+.border{
+    border:solid 1px black;
+}
+
 .image-positioning{
     width: 100%;
     max-height:100%;
