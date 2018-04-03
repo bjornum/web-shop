@@ -35,7 +35,7 @@ function mouseisover() {
     document.getElementById("prov").innerHTML="aasdf";}
 
 function mouseisout() {
-    document.getElementById("prov").innerHTML="yasdasdadad";}
+    document.getElementById("prov").innerHTML="bilde 2";}
 
 function mouseismoving() {
     document.getElementById("prov").innerHTML="weeeee";}
