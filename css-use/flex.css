@@ -245,3 +245,19 @@ width:7em;
 padding:10px;
 margin:20px;
 }
+
+/*user pages */
+
+.flex-user-data{
+    display:flex;
+    padding:2em;
+}
+
+.flex-user-data-border{
+    display:flex;
+    border:solid, 1px, black;
+}
+
+.border{
+    border:1px solid black;
+}

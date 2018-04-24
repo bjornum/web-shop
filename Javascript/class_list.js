@@ -18,3 +18,13 @@ function classList_remove() {
     var element = document.getElementById("classLists");
     element.classList.remove("class to remove");
 }
+
+
+
+
+
+/*testing*/
+function classList_toggle1 () {
+    var element = document.getElementById("classLists");
+    element.classList.toggle("flex-boxes2,flex-about-box-top");
+}
